@@ -1,0 +1,1 @@
+from .mapit import main
