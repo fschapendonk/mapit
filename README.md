@@ -1,4 +1,4 @@
-# MatIt
+# MapIt
 
 `MapIt` is een eenvoudig Python-script dat locatiegegevens verwerkt en deze automatisch opent in Google Maps. Het kan zowel coördinaten (latitude/longitude) als adressen herkennen en gebruiken. Wanneer de invoer niet voldoet aan de standaardcriteria, wordt de invoer gebruikt als een zoekquery op Google Maps.
 
