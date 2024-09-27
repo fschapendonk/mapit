@@ -34,7 +34,7 @@ Nadat de installatie is voltooid, kun je het script gebruiken via de command lin
     Voer een adres in het volgende formaat in:
 
     ```bash
-    mijn_script "Vriesdonk 12, Biezenmortel"
+    mijn_script "teststraat 1, testdorp"
     Dit opent automatisch het ingevoerde adres op Google Maps.
 
 3. Onbekende of Afwijkende Invoer
